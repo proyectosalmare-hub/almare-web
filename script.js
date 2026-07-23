@@ -1,1 +1,1 @@
-console.log('ALMARE Web lista');
+// JS
